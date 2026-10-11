@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Finite",
+  "version": "1.0.0",
+  "description": "A quiet new tab with live countdowns for what you're working toward.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"]
+}
